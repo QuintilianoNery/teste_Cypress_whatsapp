@@ -1,4 +1,4 @@
-<h1 align="center">Teste conversacional no Whatsapp utilizando Cypress - POC</h1>
+<h1 align="center">Imersão Cypress - Take Blip</h1>
 
 ---
 
